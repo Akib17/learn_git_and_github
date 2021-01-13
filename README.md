@@ -1,1 +1,3 @@
-# learn_git_and_github
+# Learn Git and Github
+
+**Git and Github** are very important for a programmer.
