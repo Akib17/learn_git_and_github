@@ -1,1 +1,3 @@
 Some conflict will happen
+
+Some updated in Merge file
