@@ -1,1 +1,1 @@
-Merge from Master Branch
+Some conflict will happen
